@@ -3,6 +3,7 @@ import './HolderPage.scss'
 const HolderPage = () => {
   return (
     <div className='holder-page'>
+      <img src="/assets/images/HolderPage/black-smoky-bg.jpeg" style={{ display: 'none' }} />
       <div className='holder-page-content'>
         <div className='holder-page-brand'>
           <img src='/assets/images/Logos/banana-new-logo.png' alt='banana-logo' className='holder-page-brand-logo' />
