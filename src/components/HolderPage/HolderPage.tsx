@@ -9,19 +9,27 @@ const HolderPage = () => {
       />
       <div className="holder-page-content">
         <div className="holder-page-brand">
-          <img
+          {/* <img
             src="/assets/images/Logos/banana-new-logo.png"
             alt="banana-logo"
             className="holder-page-brand-logo"
-          />
-          <h1 className="holder-page-brand-1">Banana</h1>
-          <h1 className="holder-page-brand-2">HQ</h1>
+          /> */}
+          {/* <img
+            src="/assets/images/Logos/banana-new-logo.png"
+            alt="banana-logo"
+            className="holder-page-brand-logo"
+          /> */}
+
+
+          <h1 className="holder-page-brand-1">Rize</h1>
+          <h1 className="holder-page-brand-1">Labs</h1>
         </div>
         <div className="holder-page-header">
           <h1 className="holder-page-header-txt">
-            Simplifying web3 with intent-based Infrastructure
+            Building... <br />
+            The Next Generation Decentralized Infrastructure and Apps
           </h1>
-          <button
+          {/* <button
             className="holder-page-header-btn"
             onClick={() =>
               window.open(
@@ -31,13 +39,13 @@ const HolderPage = () => {
             }
           >
             Learn More
-          </button>
+          </button> */}
         </div>
       </div>
       <div className="holder-page-footer">
         <div className="holder-page-footer-social">
           <a
-            href="https://twitter.com/BananaHQio"
+            href="https://twitter.com/RizeLabs"
             target="_blank"
             rel="noreferrer"
           >
@@ -48,7 +56,7 @@ const HolderPage = () => {
             />
           </a>
           <a
-            href="https://discord.gg/3fJajWBT3N"
+            href="https://twitter.com/RizeLabs"
             target="_blank"
             rel="noreferrer"
           >
