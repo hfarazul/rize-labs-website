@@ -27,7 +27,7 @@ const HolderPage = () => {
         <div className="holder-page-header">
           <h1 className="holder-page-header-txt">
             Enabling privacy on decentralised AI <br />
-            Coming soon... 
+            Encrypting soon... 
           </h1>
           {/* <button
             className="holder-page-header-btn"
