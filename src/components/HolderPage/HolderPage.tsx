@@ -21,13 +21,13 @@ const HolderPage = () => {
           /> */}
 
 
-          <h1 className="holder-page-brand-1">Rize</h1>
-          <h1 className="holder-page-brand-1">Labs</h1>
+          <h1 className="holder-page-brand-1">Encifher</h1>
+          {/* <h1 className="holder-page-brand-1">Labs</h1> */}
         </div>
         <div className="holder-page-header">
           <h1 className="holder-page-header-txt">
-            Building... <br />
-            The Next Generation Decentralized Infrastructure and Apps
+            Enabling privacy on decentralised AI <br />
+            Coming soon... 
           </h1>
           {/* <button
             className="holder-page-header-btn"
@@ -45,7 +45,7 @@ const HolderPage = () => {
       <div className="holder-page-footer">
         <div className="holder-page-footer-social">
           <a
-            href="https://twitter.com/RizeLabs"
+            href="https://twitter.com/encifherio"
             target="_blank"
             rel="noreferrer"
           >
@@ -55,7 +55,7 @@ const HolderPage = () => {
               className="holder-page-footer-x-icon"
             />
           </a>
-          <a
+          {/* <a
             href="https://twitter.com/RizeLabs"
             target="_blank"
             rel="noreferrer"
@@ -65,8 +65,8 @@ const HolderPage = () => {
               alt="discord"
               className="holder-page-footer-discord-icon"
             />
-          </a>
-          <a
+          </a> */}
+          {/* <a
             href="https://t.me/+Tsmq_dWRK0NkMTc1"
             target="_blank"
             rel="noreferrer"
@@ -76,7 +76,7 @@ const HolderPage = () => {
               alt="discord"
               className="holder-page-footer-telegram-icon"
             />
-          </a>
+          </a> */}
         </div>
         <p className="holder-page-footer-copyright">
           © 2023 Rize Labs, HQ Singapore
