@@ -26,7 +26,8 @@ const HolderPage = () => {
         </div>
         <div className="holder-page-header">
           <h1 className="holder-page-header-txt">
-            Encrypting soon... 
+            Building... <br />
+            The Next Generation Infrastructure and Apps
           </h1>
           {/* <button
             className="holder-page-header-btn"
@@ -43,8 +44,8 @@ const HolderPage = () => {
       </div>
       <div className="holder-page-footer">
         <div className="holder-page-footer-social">
-          <a
-            href="https://twitter.com/encifherio"
+          {/* <a
+            href="https://twitter.com/RizeLabs"
             target="_blank"
             rel="noreferrer"
           >
@@ -53,7 +54,7 @@ const HolderPage = () => {
               alt="X"
               className="holder-page-footer-x-icon"
             />
-          </a>
+          </a> */}
           {/* <a
             href="https://twitter.com/RizeLabs"
             target="_blank"
@@ -78,7 +79,7 @@ const HolderPage = () => {
           </a> */}
         </div>
         <p className="holder-page-footer-copyright">
-          © 2023 Rize Labs, HQ Singapore
+          © 2023 Rize Labs | HQ Singapore | info@rizelabs.io
         </p>
       </div>
     </div>
