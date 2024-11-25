@@ -21,7 +21,7 @@ const HolderPage = () => {
           /> */}
 
 
-          <h1 className="holder-page-brand-1">Encifher</h1>
+          <h1 className="holder-page-brand-1">RizeLabs</h1>
           {/* <h1 className="holder-page-brand-1">Labs</h1> */}
         </div>
         <div className="holder-page-header">
